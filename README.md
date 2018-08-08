@@ -1,12 +1,10 @@
 # Starter Web Project
 
 This is a starter project for Git and Github.
-Hi again, it's me.
-Yebebe.
 
 ## Introduction
 
-This example is awesome.
+This is an example of working on Git and Github.
 
 ## Purpose
 
@@ -18,7 +16,7 @@ This is a simple web project.
 
 ## How To Contribute
 
-Fork it man.
+Fork the project into your repository.
 
 ## Copyright
 
