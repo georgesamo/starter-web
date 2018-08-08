@@ -15,3 +15,7 @@ The main purpose is to show simple examples.
 This is a simple web project.
 
 ## How To Contribute
+
+## Copyright
+
+Git.training
