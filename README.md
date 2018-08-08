@@ -8,6 +8,10 @@ This example is awesome.
 
 ## Purpose
 
+The main purpose is to show simple examples.
+
 ## Deployment
+
+This is a simple web project.
 
 ## How To Contribute
