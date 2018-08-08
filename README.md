@@ -16,6 +16,8 @@ This is a simple web project.
 
 ## How To Contribute
 
+Fork it man.
+
 ## Copyright
 
 Git.training
